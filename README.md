@@ -15,7 +15,7 @@
     
     负责系统服务端核心模块之一：**文件上传模块(支持大文件>30G)**，以及产品、版本、文件等模块。  
 
-* 2020/04：聚变平台  
+* 2020/04-2021/01：聚变平台  
   
     聚变（fusion）平台是集团数字化体系中的一部分，提供研发类数据指标度量及devops流水线实现。  
   
@@ -38,3 +38,12 @@
        两个系统分别面向集团客户和产品开发部门导致数据维度不同，产品附加定义、版本定义规则不同,通过自动化组件实现映射规则声明式配置，快速实现产品问题在双系统中自由流转。  
          
              基于 Java 语言 ,包括 SpringBoot,Mysql
+# 开源项目和作品
+* Ornament（学生时代作品）  
+  基于AOP原理实现（Java），可以帮助对象通过简单的注解获得被观察的能力。
+# 技能清单
+1. Web前端：Vue，Vuex,VueRouter,Axios,Echarts
+2. Web后端：FastHttp,Gin,SpringBoot
+3. 数据库相关：Mysql,PostgreSql
+4. 中间件：kafka,redis
+5. CI/CD：gitlab-ci,docker,docker-compose
